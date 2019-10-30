@@ -1,0 +1,11 @@
+{
+  "name": "commandDeliver",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "nodejs ./index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "~0.30.0"
+  }
+}
